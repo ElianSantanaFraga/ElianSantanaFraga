@@ -8,9 +8,9 @@
 <h3 align="left">Technologies</h3>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" alt="html5 logo" />
 <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="25" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="42" alt="html5 logo" />
 <img width="8" />         
 </div>
 
